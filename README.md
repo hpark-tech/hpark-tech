@@ -48,7 +48,7 @@ Tool <br/>
    <br/>
    <br/>
 
-![hpark-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpark-tech&hide=contribs,prs&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
 
 </div>
