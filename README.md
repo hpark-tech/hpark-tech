@@ -14,9 +14,6 @@ i am studying Computer Science to become a back-end developer.
 <a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </span>
 
-![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpark.tech@gmail.com)
-
-
 <!--
 **hpark-tech/hpark-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
