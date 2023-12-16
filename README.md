@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there. This is hpark-tech 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhpark-tech%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
+i am studying Computer Science to become a back-end developer.
+
 ### Contact 👋
 <span>
 <a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+</span>
+
+<span>
+<a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </span>
 
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpark.tech@gmail.com)
@@ -40,7 +46,7 @@ Tool ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&lo
     ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### 👋
+### etc 👋
 ![hpark-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpark-tech&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats)
