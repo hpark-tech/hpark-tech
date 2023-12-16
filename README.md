@@ -3,6 +3,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
+### Contact 👋
+[![blog](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://a-develop.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:hpark.tech@gmail.com)
+
+
 <!--
 **hpark-tech/hpark-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,10 +37,6 @@ Here are some ideas to get you started:
    ![js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![js](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
     ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Contact 👋
-[![blog](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://a-develop.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:hpark.tech@gmail.com)
 
 
 ### 👋
