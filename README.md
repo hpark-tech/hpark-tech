@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
-i am studying Computer Science to become a back-end developer. <br/>
+I am studying Computer Science to become a back-end developer. <br/>
 <br/>
 Contact me  
 <a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
 <br/>
 <br/>
 
