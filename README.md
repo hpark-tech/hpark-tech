@@ -5,9 +5,7 @@
 
 ### Contact 👋
 <span>
-  <a href="[https://a-develop.tistory.com/]">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </span>
 
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpark.tech@gmail.com)
