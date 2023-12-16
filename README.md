@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hpark-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpark-tech&hide=contribs,prs&show_icons=true&theme=graywhite)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
