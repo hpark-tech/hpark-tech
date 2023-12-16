@@ -10,8 +10,8 @@
 I am studying Computer Science to become a back-end developer. <br/>
 <br/>
 Contact me  
-<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **hpark-tech/hpark-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 Languge <br/>
-![js](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![js](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
+![js](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![js](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white) 
 
 Framework <br/>
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
