@@ -5,7 +5,7 @@
 
 ### Contact 👋
 <span>
-<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </span>
 
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpark.tech@gmail.com)
