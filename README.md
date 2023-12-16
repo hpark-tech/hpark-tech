@@ -10,8 +10,8 @@
 I am studying Computer Science to become a back-end developer. <br/>
 <br/>
 Contact me  
-<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-232F3E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-232F3E?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **hpark-tech/hpark-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
