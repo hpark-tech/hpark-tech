@@ -10,7 +10,7 @@
 I am studying Computer Science to become a back-end developer. <br/>
 <br/>
 Contact me  
-<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-555555?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-555555?style=flat-square&logo=Tistory&logoColor=white&edge_flat=false"/></a>
 <a href="mailto:hpark.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
