@@ -41,7 +41,7 @@ Framework <br/>
 
 Tool <br/>
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![js](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)  ![js](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)  ![js](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)  ![js](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-    ![js](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+    ![js](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![js](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 
   <br/>
    <br/>
