@@ -8,7 +8,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
 I am studying Computer Science to become a back-end developer. <br/>
-I enjoy coding...for now :wink:<br/>
+I enjoy coding ... for now :wink:<br/>
 <br/>
 Contact me  
 <a href="https://a-develop.tistory.com"><img src="https://img.shields.io/badge/Blog-555555?style=flat-square&logo=Tistory&logoColor=white"/></a>
