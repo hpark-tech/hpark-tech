@@ -52,7 +52,7 @@ Tool <br/>
    <br/>
    <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode) ![](https://leetcard.jacoblin.cool/todayicode?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode) ![](https://leetcard.todayicode/todayicode?animation=false)
 
 
 </div>
