@@ -52,5 +52,5 @@ Tool <br/>
    <br/>
    <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode) ![LeetCode Stats](https://leetcard.jacoblin.cool/todayicode?theme=dark&font=Noto%20Sans%20Lisu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpark-tech)](https://github.com/hpark-tech/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayicode)](https://solved.ac/todayicode) ![LeetCode Stats](https://leetcard.jacoblin.cool/todayicode?theme=dark&font=Noto%20Sans%20Lisu&width=300&height=150)
 </div>
