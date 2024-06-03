@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 <br/>
 
 ## Tech Stack
-Languge <br/>
+### Languge <br/>
 ![js](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![js](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white) + ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)(Beginner)
 
-Framework <br/>
+### Framework <br/>
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-Database <br/>
+### Database <br/>
 ![js](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)  ![js](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
-Tool <br/>
+### Tool <br/>
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)   ![js](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
     ![js](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![js](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 
