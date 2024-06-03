@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 Languge <br/>
-![js](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![js](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white) 
-+ complete novice in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![js](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![js](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white) + complete novice in [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 Framework <br/>
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
