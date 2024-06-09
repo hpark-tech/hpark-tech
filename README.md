@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=todayicode)](https://solved.ac/todayicode)
 
-I am studying Computer Science to become a back-end developer. <br/>
+I am studying Computer Science to work a back-end developer. <br/>
 I enjoy coding.  <br/>
 for now :wink:<br/>
 <br/>
