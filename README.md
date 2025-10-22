@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) 
      ![aws](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white)
     ![js](https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=spring&logoColor=white)
+    ![js](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
   <br/>
    <br/>
